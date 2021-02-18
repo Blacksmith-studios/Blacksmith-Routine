@@ -1,0 +1,20 @@
+{
+  "name": "com.unity.sysroot",
+  "displayName": "Sysroot Base",
+  "version": "0.1.18-preview",
+  "unity": "2019.3",
+  "keywords": [
+    "unity",
+    "linux",
+    "sysroot"
+  ],
+  "description": "This is the base sysroot package required by all sysroot and toolchain packages",
+  "upmCi": {
+    "footprint": "881473296e1e637a02fa33eefb95d3245cadfc9d"
+  },
+  "repository": {
+    "url": "https://github.com/Unity-Technologies/com.unity.sysroot.git",
+    "type": "git",
+    "revision": "0d5e7b07c95f3ae15d6d80931a071b042e97189b"
+  }
+}
