@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - anvil
+  - forge
+  - foundry
+  - dress
+  - barrel
+  - scraps
   layers:
   - Default
   - TransparentFX
